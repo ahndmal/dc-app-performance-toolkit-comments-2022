@@ -3,4 +3,4 @@ pandas==1.1.2
 importlib-metadata==2.0.0
 zipp==2.2.0 # hard requirement of bzt 1.15.0
 bzt==1.15.0
-locust==1.2.3
+locust==1.3.2
